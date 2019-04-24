@@ -1,0 +1,42 @@
+visa: 4113900000000007
+amex: 371144371144376
+
+https://bluejeans.com/331961414/browser 
+
+https://sys2.disneymovieclub.go.com/dmc/api/v1/orderProcesses?catalogId=10051
+
+https://sys2.disneymovieclub.go.com/dmc/api/v1/orderPrices?catalogId=10051
+
+https://sys2.disneymovieclub.go.com/dmc/api/v1/orderPrices?catalogId=10051
+
+
+https://mixpanel.com/report/1949030/live#chosen_columns:!('$browser','$city',mp_country_code,Email,Format),column_widths:!(200,100,361,249,49,110,111),resized_columns:!(!f,!f,!f,!f,!t,!t)
+ 
+
+test3091057@dmc.ca
+test3013419@dmc.ca
+test3061958@dmc.com
+test8053380@dmc.com   
+ 
+
+
+swna\mishr008
+D1$NeY039
+Z0103M04
+
+
+
+Test Account	Member Site	Testing Purpose			Environments	Membership ID	ZIP/Postal Code		Email Address		Password
+1	US	Testing CVV Functionality – Make A Payment	Auth		4777352		35405			test4777352@dmc.com     123456
+2	US	Testing CVV Functionality – Make A Payment	Auth		5514977		32908			test5514977@dmc.com	123456
+3	US	Testing CVV Functionality – Pay By Check	Auth		5865804		47720			test5865804@dmc.com	123456
+4	US	Testing CVV Functionality – Pay By Check	Auth		5960568		17325			test5960568@dmc.com	123456
+5	CA	Testing CVV Functionality – Make A Payment	Auth		5466548		R2N 0G3			test5466548@dmc.com	123456
+6	CA	Testing CVV Functionality – Make A Payment	Auth		5464774		T5X 3J3			test5464774@dmc.com	123456
+7	CA	Testing CVV Functionality – Pay By Check	Auth		2796831		N6M 1J6			test2796831@dmc.com	123456
+8	CA	Testing CVV Functionality – Pay By Check	Auth		3369880		B2N 4T2			test3369880@dmc.com	123456
+9	US	Forward to a Friend with Credits		Auth		6935066		53027			test6935066@dmc.com	123456
+10	US	Forward to a Friend with Credits		Auth		7421129		63755			test7421129@dmc.com	123456
+
+
+
